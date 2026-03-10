@@ -1,5 +1,9 @@
-# Lara Nunes de Lacerda
+# [Lara Nunes de Lacerda]
 Graduanda de Ciência Política na Universidade de São Paulo
 
-## Sobre Mim
-Pesquiso na área de Gênero e Política.
+## Interesses de Pesquisa
+* Gênero e Política
+* Sistema Eleitoral Brasileiro
+
+## Contato
+* Email: lara.nl@usp.br
